@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 node_modules
 npm-debug.log
 coverage
@@ -10,3 +11,17 @@ Dockerfile
 .dockerignore
 README.md
 REPORT.md
+=======
+node_modules
+npm-debug.log
+coverage
+.git
+.gitignore
+.env
+.env.*
+!.env.example
+Dockerfile
+.dockerignore
+README.md
+REPORT.md
+>>>>>>> a0abb9c46a451e925c62d238c6108711908047d6
